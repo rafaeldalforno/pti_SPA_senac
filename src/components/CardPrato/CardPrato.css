@@ -1,0 +1,20 @@
+.cardPrato {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(177, 177, 177);
+  border-radius: 8px;
+}
+
+.cardPrato img {
+  border-radius: 80px;
+  margin: 1rem;
+}
+
+.button {
+  background-color: #06f;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+  border-radius: 8px;
+}
